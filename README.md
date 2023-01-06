@@ -1,20 +1,29 @@
-# Base QuickCheck - A Property Based Testing Library compatible with Base
 
-Base QuickCheck is a framework for randomized/property based testing
+# Base QuickCheck - A Property Based / Randomized Testing Library Compatible with Base
 
-# Generating Random Values
+Base QuickCheck is a OCaml framework for creating property based tests that is fully compatible with the [Base](https://opensource.janestreet.com/base/) library and its types. 
 
-## Generating Random Lists
+What follows are explanations regarding the basic components of the library and examples demonstrating how to use them. There are also sections showing how the component itself relates to the Base library.
 
-## Generating Random Trees
+For more detailed information and help regarding specific functions, you should check out the documentation [here](https://ocaml.org/p/base_quickcheck/v0.15.0/doc/Base_quickcheck/index.html)
 
-## Generating Random Graphs
+toc::[]
 
-## Generating Random Functions
+== A Basic Introduction to the Library
+
+## Generators
+
+### Base Compatability
 
 ## Observers
 
-## Running Tests
+### Base Compatability
 
-## Export Module
+## Shrinkers
 
+### Base Compatability
+
+
+
+
+What makes this better than QCheck? Base compatability. 
