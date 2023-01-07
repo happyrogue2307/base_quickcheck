@@ -3,25 +3,23 @@
 
 Base QuickCheck is a OCaml framework for creating property based tests that is fully compatible with the ***[Base](https://opensource.janestreet.com/base/)*** library and its types. 
 
-What follows are explanations regarding the basic components of the library and examples demonstrating how to use them. There are also sections showing how the component itself relates to the Base library.
+What follows below is essentially a tutorial that demonstrates how to go about writing tests. There are also detailed
+explanations about each of the components one needs to know about to write his/her own tests. We explain each section with
+the help of some examples.
 
-For more detailed information and help regarding specific functions, you should check out the documentation ***[here](https://ocaml.org/p/base_quickcheck/v0.15.0/doc/Base_quickcheck/index.html)***
+**Table of Contents**
+[Writing and Running Tests](doc:README#writing-and-running-tests)
 
-toc::[]
+## Writing and Running Tests
 
-== A Basic Introduction to the Library
+
 
 ## Generators
 
-### Base Compatability
-
 ## Observers
-
-### Base Compatability
 
 ## Shrinkers
 
-### Base Compatability
 
 
 
