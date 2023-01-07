@@ -8,7 +8,7 @@ explanations about each of the components one needs to know about to write his/h
 the help of some examples.
 
 **Table of Contents**
-[Writing and Running Tests](doc:README#writing-and-running-tests)
+[Writing and Running Tests](#writing-and-running-tests)
 
 ## Writing and Running Tests
 
